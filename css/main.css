@@ -3688,7 +3688,7 @@ h5 {
 
 .contact-email a:hover,
 .contact-email a:focus {
-  border-bottom: 3px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 3px solid rgb(255, 255, 255);
 }
 
 /* contact form */
@@ -3755,7 +3755,7 @@ h5 {
 #contact input[type="email"],
 #contact textarea {
 	width: 100%;
-	color: rgba(4, 11, 0, 0.7);
+	color: rgb(255, 255, 255);
 	margin-bottom: 0;
 	border: none;
 	border-bottom: 1px solid rgba(8, 0, 0, 0.1);
